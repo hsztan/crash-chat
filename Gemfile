@@ -73,3 +73,9 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+gem "devise", "~> 4.9"
+gem "faker", "~> 3.2"
+
+gem "standard", "~> 1.31"
+gem "rubocop", "~> 1.56"
